@@ -1,0 +1,15 @@
+[submodule "2021-01-benedettoandrea"]
+	path = 2021-01-benedettoandrea
+	url = git@github.com:drawwithcode/2021-01-benedettoandrea.git
+[submodule "02-animated-texture-benedettoandrea"]
+	path = 02-animated-texture-benedettoandrea
+	url = git@github.com:drawwithcode/02-animated-texture-benedettoandrea.git
+[submodule "2021-03-benedettoandrea"]
+	path = 2021-03-benedettoandrea
+	url = git@github.com:drawwithcode/2021-03-benedettoandrea.git
+[submodule "2021-04-benedettoandrea"]
+	path = 2021-04-benedettoandrea
+	url = git@github.com:drawwithcode/2021-04-benedettoandrea.git
+[submodule "2021-05-benedettoandrea"]
+	path = 2021-05-benedettoandrea
+	url = git@github.com:drawwithcode/2021-05-benedettoandrea.git
