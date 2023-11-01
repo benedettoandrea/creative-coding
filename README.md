@@ -8,4 +8,4 @@ A collection of creative coding sketches I made [^1].
 4. [Privacy Notice](https://drawwithcode.github.io/2021-04-benedettoandrea/)
 5. [Collaborative Moiré Pattern](https://drawwithcode.github.io/2021-05-benedettoandrea/)
 
-[^1]: Either during the Creative Coding Course, held at the Polytechnic University of Milan, or as self-initiated projects.
+[^1]: Either during the [Creative Coding](https://drawwithcode.github.io/) course, held at Politecnico di Milano, or as self-initiated projects.
